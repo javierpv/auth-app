@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  urlAuthService: 'https://angular-auth-jpv.herokuapp.com/api'
+
 };
